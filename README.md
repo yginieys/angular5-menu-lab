@@ -1,5 +1,10 @@
 # MenuLab
 
+Test l'utilisation d'un module configurable Menu partagé entre modules Page1 et Page2.
+
+Le module Menu propose un menu pluggable dans lequel les module page1 et page2 vont 
+chacun ajouter leur propre menu. L'application affiche le menu.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
